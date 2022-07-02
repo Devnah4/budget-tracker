@@ -8,7 +8,7 @@ A simple app made to check your incomes and expenses and put them on a neat litt
 
 ## Preview
 
-- ![Screenshot 2022-07-01 195906](https://user-images.githubusercontent.com/98830462/176978676-7293b1b5-a548-4c22-bcb0-28b4c783e4ac.png)
+![Screenshot 2022-07-01 195906](https://user-images.githubusercontent.com/98830462/176978676-7293b1b5-a548-4c22-bcb0-28b4c783e4ac.png)
 - [View a Live Demo!](https://red-toonie-25937.herokuapp.com/)
 ***
 
