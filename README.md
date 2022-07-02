@@ -26,5 +26,5 @@ npm start
 
 ## Made with
 
-[Mongoose.js](https://mongoosejs.com/)
-[MongoDB](https://www.mongodb.com/)
+- [Mongoose.js](https://mongoosejs.com/)
+- [MongoDB](https://www.mongodb.com/)
